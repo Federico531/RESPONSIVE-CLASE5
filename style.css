@@ -22,7 +22,6 @@ main{
     grid-template-columns: repeat(2, 1fr);
 }
 
-
 .body-container{
     background-color: gray;
     display: grid;
@@ -46,7 +45,13 @@ main{
 .post2-entry{
     padding-bottom: 2%;
 }
-
+.right-nav{
+    background: lightgray;
+    margin-left: 50%;
+    margin-bottom: 20%;
+    padding-top: 2%;
+    text-align: center;
+}
 footer{
     background-color: #89CEEA;
     text-align: center;
